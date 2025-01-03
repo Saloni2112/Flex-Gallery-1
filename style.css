@@ -31,49 +31,49 @@
 
 
 .card:first-child{
-    background-image: url('https://source.unsplash.com/random?girl');
+    background-image: url(./brown-aesthetic.jpg);
    background-position: center;
    background-size: cover;
 }
 
 .card:last-child{
-    background-image: url('https://source.unsplash.com/random?mobile');
+    background-image: url(./9935d0248e69513db6b13734bbdacaae.jpg);
    background-position: center;
    background-size: cover;
 }
 
 .card:nth-child(2){
-    background-image: url('https://source.unsplash.com/random?cat');
+    background-image: url(./desktop-wallpaper-awesome-apple-page-1920×1200-amazing-apple-background-cool-macbook-thumbnail.jpg);
     background-position: center;
     background-size: cover;
 }
 
 .card:nth-child(3){
-    background-image: url('https://source.unsplash.com/random?nature');
+    background-image: url(./desktop-wallpaper-full-stack-web-development-full-stack-developer-thumbnail.jpg);
     background-position: center;
     background-size: cover;
 }
 
 
 .card:nth-child(4){
-    background-image: url('https://source.unsplash.com/random?cuple');
+    background-image: url(./leaves-plants-neon-hd-wallpaper-preview.jpg);
     background-position: center;
     background-size: cover;
 }
 
 .card:nth-child(5){
-    background-image: url('https://source.unsplash.com/random?laptop');
+    background-image: url(./picturemessage_oidu4ima.pxy.png);
     background-position: center;
     background-size: cover;
 }
 .card:nth-child(6){
-    background-image: url('https://source.unsplash.com/random?flower');
+    background-image: url(./premium_photo-1726880637228-52cb20f7bc7d.avif);
     background-position: center;
     background-size: cover;
 }
 
 .card:nth-child(7){
-    background-image: url('https://source.unsplash.com/random?baby');
+    background-image: url(./desktop-wallpaper-how-long-does-it-take-to-become-a-full-stack-developer-full-stack-developer-thumbnail.jpg);
     background-position: center;
     background-size: cover;
 }
